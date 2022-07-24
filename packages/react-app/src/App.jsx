@@ -61,7 +61,7 @@ const targetNetwork = NETWORKS.rinkeby; // <------- select your target frontend 
 const DEBUG = true;
 const NETWORKCHECK = true;
 
-// EXAMPLE STARTING JSON:
+// EXAMPLE STARTING JSON: 
 const STARTING_JSON = {
   description: "It's actually a bison?",
   external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
